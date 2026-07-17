@@ -49,16 +49,10 @@ Cleaning Steps:
 ---
 
 ## 📈 Dashboard Preview & Link
-### **Interactive Tableau Dashboard**
-🔗 *(Add your Tableau Public link here once published)*
 
-### Example Views:
-- Pit Stop Trend Over Time
-- Distribution of Pit Stop Times by Constructor
-- Top Fastest Pit Stops
-- Scatter: Average vs. Total Stops
+![Formula 1 Pit Stop Dashboard](images/dashboard_preview.png)
 
----
+*Interactive Tableau dashboard analyzing Formula 1 pit stop performance from 2011–2024.*
 
 ## 📁 Repository Structure
 F1-Pitstop-Analysis/
